@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testcase_7", "testcase_7\te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testcase_8", "testcase_8\testcase_8.csproj", "{2944E0EB-7C70-4FD6-9FF4-6D2D7F0E0453}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{FB3C8BC1-7E12-46F0-826D-CFA3CEC7BC62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Test\Library.csproj", "{FB3C8BC1-7E12-46F0-826D-CFA3CEC7BC62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
